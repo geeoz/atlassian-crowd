@@ -1,6 +1,6 @@
 FROM openjdk:8-jdk-alpine
 
-ARG CROWD_VERSION=4.0.2
+ARG CROWD_VERSION=4.1.0
 
 ENV RUN_USER            daemon
 ENV RUN_GROUP           daemon
